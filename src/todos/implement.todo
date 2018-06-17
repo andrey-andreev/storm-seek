@@ -1,0 +1,12 @@
+Implementation:
+    ☐ commit eslint
+    ☐ commit todos
+    ☐ commit .editorconfig
+    ☐ install react-router
+    ☐ create layout
+    ☐ create pages
+    ☐ search for forecast APIs
+    ☐ navigation content: home(logo), locations, add location, 
+    ☐ secondary navigation in create pages: filters and ...
+    ☐ 
+    ☐ install styled-components

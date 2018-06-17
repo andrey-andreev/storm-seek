@@ -1,0 +1,34 @@
+Pages:
+  Location (spot) details page:
+    ☐ spot's webcams list
+    ☐ spot's weather forecasts list
+    ☐ add webcam button
+    ☐ add weather forecast button
+    ☐ draggable
+
+  Locations (spots) list page:
+    ☐ title
+    ☐ thumbnail
+    ☐ info: webcams: 3, forecasts: list types
+
+  Home page:
+    ☐ locations link
+    ☐ create or add new location button
+
+  Create location:
+    ☐ show title
+    ☐ edit title button
+    ☐ add webcam button
+    ☐ add forecasts button
+
+    Add webcam:
+      ☐ by map
+        ☐ filters: ???
+      ☐ by search
+        ☐ text input: ? query suggestions
+        ☐ ??? types: webcams | image | location
+        ☐ filters by: country, beach | mountains, ...
+        ☐ timelapse | live | image | hd 
+
+    Add weather forecast:
+      ☐ ... ?
