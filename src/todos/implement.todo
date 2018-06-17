@@ -5,16 +5,28 @@ Implementation:
     ✔ install react-router @done (6/17/2018, 5:06:41 PM)
     ✔ navigation content: home(logo), locations, add location, @done (6/17/2018, 6:24:58 PM)
     ✔ create pages @done (6/17/2018, 6:25:03 PM)
-    ☐ search for forecast APIs
+    ☐ install and setup redux and ...
+    ☐ create location: title, webcams
+    ☐ write tests for location's actions and reducers
+    ☐ location details page: add webcam, add forecast, title,
+    ☐ list locations page:
+    ☐ delete(or archive maybe) location function
+    ☐
     ☐ install styled-components
+    ☐ normalize and reset
     ☐ create layout and some styles for it
     ☐ secondary navigation in create pages: filters and ...
     ☐
+    ☐ search for forecast APIs
+    ☐ read for terms and conditions of the forecast APIs
+    ☐
     ☐ think of user friendly description for add webcam page
     ☐ add project description in github
+    ☐ Update readme
     ☐
     ☐ about page
     ☐ contact page: suggestions, for new APIs, bugs ...
+    ☐ support page: donations, expenses
     ☐ gdpr ???
 
 
@@ -26,4 +38,3 @@ Implementation:
     // ??? filters: category, countries
     // camera options: timelapse, live
     // categories: beach, mountains ....
-    // save favourites cams by id
