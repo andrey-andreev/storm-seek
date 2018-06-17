@@ -1,12 +1,29 @@
 Implementation:
-    ☐ commit eslint
-    ☐ commit todos
-    ☐ commit .editorconfig
-    ☐ install react-router
-    ☐ create layout
-    ☐ create pages
+    ✔ commit eslint @done (6/17/2018, 4:32:49 PM)
+    ✔ commit todos @done (6/17/2018, 4:41:46 PM)
+    ✔ commit .editorconfig @done (6/17/2018, 4:58:13 PM)
+    ✔ install react-router @done (6/17/2018, 5:06:41 PM)
+    ✔ navigation content: home(logo), locations, add location, @done (6/17/2018, 6:24:58 PM)
+    ✔ create pages @done (6/17/2018, 6:25:03 PM)
     ☐ search for forecast APIs
-    ☐ navigation content: home(logo), locations, add location, 
-    ☐ secondary navigation in create pages: filters and ...
-    ☐ 
     ☐ install styled-components
+    ☐ create layout and some styles for it
+    ☐ secondary navigation in create pages: filters and ...
+    ☐
+    ☐ think of user friendly description for add webcam page
+    ☐ add project description in github
+    ☐
+    ☐ about page
+    ☐ contact page: suggestions, for new APIs, bugs ...
+    ☐ gdpr ???
+
+
+
+    // check how to integrate the player: url + ?autoplay=1
+    // property: hd or live
+
+    // ??? default cameras
+    // ??? filters: category, countries
+    // camera options: timelapse, live
+    // categories: beach, mountains ....
+    // save favourites cams by id
