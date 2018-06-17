@@ -5,16 +5,18 @@ Implementation:
     ✔ install react-router @done (6/17/2018, 5:06:41 PM)
     ✔ navigation content: home(logo), locations, add location, @done (6/17/2018, 6:24:58 PM)
     ✔ create pages @done (6/17/2018, 6:25:03 PM)
-    ☐ install and setup redux and ...
+    ✔ install and setup redux and ... @done (6/17/2018, 10:47:03 PM)
     ☐ create location: title, webcams
+    ☐ install redux-devtools-extention
     ☐ write tests for location's actions and reducers
     ☐ location details page: add webcam, add forecast, title,
     ☐ list locations page:
     ☐ delete(or archive maybe) location function
+    ☐ save all to localStorage
     ☐
     ☐ install styled-components
     ☐ normalize and reset
-    ☐ create layout and some styles for it
+    ☐ add basic styles for the layout
     ☐ secondary navigation in create pages: filters and ...
     ☐
     ☐ search for forecast APIs
