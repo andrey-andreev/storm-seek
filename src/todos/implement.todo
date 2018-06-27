@@ -7,12 +7,15 @@ Implementation:
     ✔ create pages @done (6/17/2018, 6:25:03 PM)
     ✔ install and setup redux and ... @done (6/17/2018, 10:47:03 PM)
     ☐ create location: title, webcams
+    (Date.now().toString(36) + Math.random().toString(36).substr(2, 5)).toUpperCase()
+    https://github.com/kelektiv/node-uuid
     ☐ install redux-devtools-extention
+    ☐ create urls file example: { path: "using for routes", url: "using for links"}
     ☐ write tests for location's actions and reducers
     ☐ location details page: add webcam, add forecast, title,
     ☐ list locations page:
     ☐ delete(or archive maybe) location function
-    ☐ save all to localStorage
+    ✔ save all to localStorage @done (6/24/2018, 5:57:39 PM)
     ☐
     ☐ install styled-components
     ☐ normalize and reset
