@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom'
 const Navigation = () => (
   <div>
     <NavLink to="/">Home</NavLink>
-    <NavLink to="/spots">Spots</NavLink>
-    <NavLink to="/create_spot">Add spot</NavLink>
+    <NavLink to="/locations">Locations</NavLink>
+    <NavLink to="/create_location">Add location</NavLink>
   </div>
 )
 

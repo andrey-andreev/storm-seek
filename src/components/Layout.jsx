@@ -4,8 +4,8 @@ import { Switch, Route } from 'react-router-dom'
 import Navigation from './Navigation'
 import Footer from './Footer'
 import Home from './Home'
-import Spots from './Spots'
-import CreateSpot from './CreateSpot'
+import Locations from './Locations'
+import CreateLocation from './CreateLocation'
 
 // import logo from './logo.svg'
 
@@ -18,8 +18,8 @@ const Layout = () => (
     <Navigation />
     <Switch>
       <Route path="/" component={Home} exact />
-      <Route path="/spots" component={Spots} />
-      <Route path="/create_spot" component={CreateSpot} />
+      <Route path="/locations" component={Locations} />
+      <Route path="/create_location" component={CreateLocation} />
     </Switch>
     <Footer />
   </Fragment>

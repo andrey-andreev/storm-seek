@@ -1,12 +1,11 @@
 import React from 'react'
-import { shape } from 'prop-types'
 import { Provider } from 'react-redux'
 import { BrowserRouter } from 'react-router-dom'
 
-
 import Layout from './components/Layout'
+import store from './storeConfig'
 
-const App = ({ store }) => (
+const App = () => (
   <Provider store={store}>
     <BrowserRouter>
       <Layout />
@@ -14,8 +13,8 @@ const App = ({ store }) => (
   </Provider>
 )
 
-App.propTypes = {
-  store: shape({}).isRequired
-}
+// App.propTypes = {
+//   store: shape({}).isRequired
+// }
 
 export default App
