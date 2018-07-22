@@ -6,6 +6,7 @@ import Footer from './Footer'
 import Home from './Home'
 import Locations from './Locations'
 import CreateLocation from './CreateLocation'
+import AddWebcam from './AddWebcam'
 
 // import logo from './logo.svg'
 
@@ -20,6 +21,7 @@ const Layout = () => (
       <Route path="/" component={Home} exact />
       <Route path="/locations" component={Locations} />
       <Route path="/create_location" component={CreateLocation} />
+      <Route path="/add_webcam" component={AddWebcam} />
     </Switch>
     <Footer />
   </Fragment>
